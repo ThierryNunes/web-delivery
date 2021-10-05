@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Screenshot" title="Delivery" src=".github/screenshot.png" />
+	<img alt="Screenshot" title="Delivery" src="github/screenshot.png" />
 </h1>
 
 # Basic Front Boilerplate (BFB)
